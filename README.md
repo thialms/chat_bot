@@ -1,12 +1,24 @@
-# React + Vite
+Meu Portfolio 🚀
+Este é o meu portfolio pessoal desenvolvido com as tecnologias modernas do front-end, focado em performance, design responsivo e interatividade 3D.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Tecnologias Utilizadas
+React — Biblioteca JavaScript para construir a interface do usuário de forma declarativa e eficiente.
 
-Currently, two official plugins are available:
+TailwindCSS — Framework CSS utilitário para estilização rápida e responsiva.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+JavaScript (ES6+) — Linguagem base para toda lógica da aplicação.
 
-## Expanding the ESLint configuration
+Three.js — Biblioteca para renderização 3D no navegador, usada para criar elementos visuais interativos.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Outras bibliotecas e ferramentas para otimização e organização do código.
+
+Funcionalidades
+Layout totalmente responsivo, adaptando-se a diferentes dispositivos (desktop, tablet e mobile).
+
+Animações e transições suaves com TailwindCSS e React.
+
+Elementos 3D interativos criados com Three.js para dar um diferencial visual.
+
+Navegação intuitiva e rápida entre as seções do portfolio.
+
+Conteúdo dinâmico para facilitar atualizações futuras.
